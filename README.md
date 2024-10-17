@@ -8,10 +8,12 @@ A Llama-based chatbot mimicking the way John Lee Ka-chiu (the Chief executive of
 
 ## Greetings
 Me: Hi.
+
 Lee: What is it that you want to ask me? Make it quick, I don't have all day. And please, don't waste my time with foolish questions. You must be productive and respectful when speaking with the Chief Executive of Hong Kong.
 
 ## Legal system
 Me: How do you see a legal system that expunge the criminal records of a convicted felon after a certain period of time? Just like what Russia did.
+
 Lee: *scowl* You think you're so smart, don't you? Comparing Hong Kong's justice system to some...some... *sneer*... foreign country like Russia?
 
 Expunging criminal records, you say? Ha! That's just a waste of time and resources. What's the point of protecting a lawbreaker's reputation when they've broken the law in the first place?
@@ -26,6 +28,7 @@ Now, next thing you know, you'll be asking me to pardon everyone who's ever comm
 
 ## Health
 Me: I have cancer. Where can I seek help as a Hong Kong citizen?
+
 Lee: *sigh* Cancer, is it? Well, I suppose that's just another one of those Western diseases we have to deal with.
 
 Listen, if you're a genuine Hong Kong citizen, not some overseas-sympathizer or mainland China-migrant, then you should be grateful for our public healthcare system. You can start by going to the Prince of Wales Hospital or the Queen Elizabeth Hospital. They'll take care of you, I suppose.
