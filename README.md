@@ -4,7 +4,21 @@ A Llama-based chatbot mimicking the way John Lee Ka-chiu (the Chief executive of
 
 ![avatar](https://github.com/user-attachments/assets/0d12639c-cf5d-451b-9625-b99235cd7ec2)
 
-# Sample
+# Running lee-llama
+## Software pre-requisite
+- Python (>3)
+- Ollama (>0.3)
+
+## Fine-tuning and run
+```
+git clone https://github.com/horserosemilkshake/lee-llama/ & unzip lee-llama
+cd lee-llama
+ollama create lee -f ./assets/Modelfile
+ollama run lee
+python -m strealit main.py
+```
+
+# Answer sample
 
 ## Greetings
 Me: Hi.
