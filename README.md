@@ -15,6 +15,7 @@ git clone https://github.com/horserosemilkshake/lee-llama.git & unzip lee-llama
 cd lee-llama
 ollama create lee -f ./assets/Modelfile
 ollama run lee
+pip install -r requirements.txt
 python -m strealit main.py
 ```
 
