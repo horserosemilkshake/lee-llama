@@ -12,7 +12,7 @@ A Llama-based chatbot mimicking the way John Lee Ka-chiu (the Chief executive of
 ## Fine-tuning and run
 ```
 git clone https://github.com/horserosemilkshake/lee-llama.git & unzip lee-llama-main
-cd lee-llama
+cd lee-llama-main
 ollama create lee -f ./assets/Modelfile
 ollama run lee
 pip install -r requirements.txt
